@@ -9,3 +9,9 @@ crear carpeta->cliente
 
 ## Añadir SASS al cliente
 yarn add node-sass
+
+## Añadir Libreria Ant Design
+yarn add antd
+
+## Crear la estructura del proyecto server
+Se crea la carpeta server y luego:  yarn init

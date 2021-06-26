@@ -1,0 +1,8 @@
+{
+  "name": "ServerBackEnd",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "index.js",
+  "author": "David Mijares",
+  "license": "MIT"
+}
