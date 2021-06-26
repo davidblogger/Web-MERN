@@ -4,4 +4,8 @@
 ### Install via npm
 npm install --global yarn
 
-###
+## Creada carpeta cliente
+crear carpeta->cliente
+
+## Añadir SASS al cliente
+yarn add node-sass
